@@ -1,4 +1,4 @@
-# Ex5-Animator-Movement
+# Ex7-Animator-Movement
 ## Aim:
 To develop a animator movement for a player using unity.
 
